@@ -12,11 +12,11 @@ I have experience working with:
 
 💻 **Languages:** 
 
-Python, SQL, JavaScript (React/Node)
+Python | SQL | JavaScript (React/Node) | Git | C#
 
 🛠️ **Tools:** 
 
-Docker, Postman, GitHub, Visual Studio Code
+Docker | Postman | GitHub | Visual Studio Code
 
 ### Interests
 
