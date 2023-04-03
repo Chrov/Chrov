@@ -20,10 +20,12 @@ Playing video games 🎮
 Technology 🤖
 📫 Contact
 
-You can contact me through the following means:
+I'm always available to collaborate on interesting and exciting projects. You can reach me through the following channels:
 
-Email: camilovergarasalas.cvs@gmail.com
-Phone: +549 351 2445233
-Twitter: @MrChrov
-Instagram: @camilo_evs
+- Email: camilovergarasalas.cvs@gmail.com
+- Phone: +549 351 2445233
+- Twitter: [@MrChrov](https://twitter.com/MrChrov)
+- Instagram: [@camilo_evs](https://www.instagram.com/camilo_evs/)
+- LinkedIn: [Camilo Vergara](https://www.linkedin.com/in/camilo-vs/)
+
 Thanks for visiting my GitHub profile!
