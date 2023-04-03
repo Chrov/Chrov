@@ -1,6 +1,14 @@
 # Hi there, I'm Camilo Vergara! 👋
 
-I'm a software developer passionate about technology and thinking about the future. I have experience working with:
+I'm a 24-year-old self-taught programmer from Chile who is currently studying to become a Systems Analyst at IES Córdoba. I'm also a proud father of a wonderful family.
+
+💻 I'm passionate about coding and I'm always looking for opportunities to learn and improve my skills. I love to work on new and exciting projects, and I'm comfortable working with a wide range of programming languages and technologies.
+
+📚 In addition to my studies, I spend a lot of time learning and exploring new areas of technology. I'm a strong believer in the power of self-education and I'm always looking for ways to expand my knowledge and stay up-to-date with the latest trends and developments in the industry.
+
+🤝 I'm a team player who values collaboration and communication. I enjoy working with others to solve problems and achieve common goals. If you're interested in working together or just want to chat, feel free to reach out to me. 
+
+I have experience working with:
 
 💻 **Languages:** 
 
