@@ -26,6 +26,7 @@ I have experience working with:
 🎮 Playing video games  
 💻 Technology
 
+**I'm always available to collaborate on interesting and exciting projects. You can reach me through the following channels:**
 
 ### Contact me
 
