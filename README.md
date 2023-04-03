@@ -8,22 +8,19 @@
 
 I have experience working with:
 
-💻 **Languages:** 
-
+💻 My Skills
 Python 🐍
 SQL 📊
 JavaScript (React / Node) 🌐
 Git 🚀
 
-🛠️ **Tools:** 
-
+🛠️ My Favorite Tools
 Docker 🐳
 Postman 📧
 GitHub 🐙
 Visual Studio Code 💻
 
-### Interests
-
+🌟 My Interests
 Learning 📚
 Exchanging ideas 🗣️
 Playing video games 🎮
