@@ -3,9 +3,11 @@
 I'm a software developer passionate about technology and thinking about the future. I have experience working with:
 
 💻 **Languages:** 
+
 Python, SQL, JavaScript (React/Node)
 
 🛠️ **Tools:** 
+
 Docker, Postman, GitHub, Visual Studio Code
 
 ### Interests
