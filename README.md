@@ -35,6 +35,6 @@ I have experience working with:
 
 ### Find me on
 
-[![](https://img.shields.io/badge/LinkedIn-Camilo%20Vergara-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/camilo-vs/)](https://www.linkedin.com/in/camilo-vs/)
-[![](https://img.shields.io/badge/Twitter-MrChrov-blue?style=flat-square&logo=twitter&labelColor=blue&link=https://twitter.com/MrChrov)](https://twitter.com/MrChrov)
+[![](https://img.shields.io/badge/LinkedIn-Camilo%20Vergara-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/camilo-evs/)](https://www.linkedin.com/in/camilo-evs/)
+[![](https://img.shields.io/badge/Twitter-MrChrov-blue?style=flat-square&logo=twitter&labelColor=blue&link=https://twitter.com/DaebakOP)](https://twitter.com/DaebakOP)
 [![](https://img.shields.io/badge/Instagram-camilo__evs-blue?style=flat-square&logo=instagram&labelColor=blue&link=https://www.instagram.com/camilo_evs/)](https://www.instagram.com/camilo_evs/)
