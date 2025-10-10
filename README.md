@@ -1,30 +1,37 @@
-# Hi there, I'm Camilo Vergara! 👋
+# Hi there, I'm Camilo Vergara! 👋  
 
-💻 I'm passionate about coding and I'm always looking for opportunities to learn and improve my skills. I love to work on new and exciting projects, and I'm comfortable working with a wide range of programming languages and technologies.
+💻 I'm an **Analyst Programmer** passionate about technology and data. I enjoy creating efficient, data-driven solutions that connect code with real-world insights. My goal is to grow as a **Data Scientist**, combining software development with analytics and AI.  
 
-📚 In addition to my studies, I spend a lot of time learning and exploring new areas of technology. I'm a strong believer in the power of self-education and I'm always looking for ways to expand my knowledge and stay up-to-date with the latest trends and developments in the industry.
+📚 I believe in the power of continuous learning. I’m constantly exploring topics like **machine learning**, **data visualization**, and **automation**, improving both my technical and analytical thinking every day.  
 
-🤝 I'm a team player who values collaboration and communication. I enjoy working with others to solve problems and achieve common goals. If you're interested in working together or just want to chat, feel free to reach out to me. 
+🤝 I value teamwork, communication, and curiosity. I love collaborating with others to solve problems and build meaningful projects. If you're working on something related to data or tech, feel free to reach out!  
 
-I have experience working with:
+---
 
-**My Skills** 🚀  
-💻 Python  
-🗄️ SQL  
-🌐 JavaScript (React / Node)  
-📜 Git  
-  
-**My Favorite Tools** 🛠️  
-🐳 Docker  
-💬 Postman  
-🐙 GitHub  
-💻 Visual Studio Code  
-  
-**My Interests** 🌟  
-📖 Learning  
-💬 Exchanging opinions  
-🎮 Playing video games  
-💻 Technology
+## **My Skills** 🚀  
+💻 **Python** (pandas, NumPy, scikit-learn, matplotlib)  
+🗄️ **SQL** (MySQL, PostgreSQL)  
+🌐 **JavaScript** (React / Node.js / Express)  
+🐘 **PHP** (with AJAX)  
+📊 **Power BI · Excel · Jupyter Notebook**  
+
+---
+
+## **My Favorite Tools** 🛠️  
+🐳 **Docker**  
+💬 **Postman**  
+🐙 **GitHub**  
+🧠 **DBeaver / Navicat**  
+💻 **Visual Studio Code**  
+
+---
+
+## **My Interests** 🌟  
+📖 **Data Science & AI**  
+💡 **Automation & Problem Solving**  
+🤝 **Collaboration**  
+🌍 **Continuous Learning**  
+
 
 **I'm always available to collaborate on interesting and exciting projects. You can reach me through the following channels:**
 
