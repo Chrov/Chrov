@@ -1,36 +1,63 @@
-# Hi there, I'm Camilo Vergara! 👋  
+# Hi, I'm Camilo
 
-💻 I'm an **Analyst Programmer** passionate about technology and data. I enjoy creating efficient, data-driven solutions that connect code with real-world insights. My goal is to grow as a **Data Scientist**, combining software development with analytics and AI.  
+Data Analyst and Programmer with 4+ years of experience transforming data into actionable insights and building scalable data-driven solutions. Experienced in designing ETL processes, automating workflows, optimizing databases, and developing analytical dashboards that support business decision-making.
 
-📚 I believe in the power of continuous learning. I’m constantly exploring topics like **machine learning**, **data visualization**, and **automation**, improving both my technical and analytical thinking every day.  
+Passionate about Data Science, Artificial Intelligence, Machine Learning, and software development, with a strong commitment to continuous learning and solving complex problems through technology.
 
-🤝 I value teamwork, communication, and curiosity. I love collaborating with others to solve problems and build meaningful projects. If you're working on something related to data or tech, feel free to reach out!  
+## Core Expertise
 
----
+* Data Analysis & Business Intelligence
+* ETL Development & Data Integration
+* Database Design & Optimization
+* Process Automation
+* Data Visualization & Reporting
+* Software Development
+* Machine Learning Fundamentals
 
-## **My Skills** 🚀  
-💻 **Python** (pandas, NumPy, scikit-learn, matplotlib)  
-🗄️ **SQL** (MySQL, PostgreSQL)  
-🌐 **JavaScript** (React / Node.js / Express)  
-🐘 **PHP** (with AJAX)  
-📊 **Power BI · Excel · Jupyter Notebook**  
+## Tech Stack
 
----
+**Languages**
 
-## **My Favorite Tools** 🛠️  
-🐳 **Docker**  
-💬 **Postman**  
-🐙 **GitHub**  
-🧠 **DBeaver / Navicat**  
-💻 **Visual Studio Code**  
+* Python
+* SQL
+* C#
+* JavaScript
+* HTML
+* CSS
 
----
+**Data & Analytics**
 
-## **My Interests** 🌟  
-📖 **Data Science & AI**  
-💡 **Automation & Problem Solving**  
-🤝 **Collaboration**  
-🌍 **Continuous Learning**  
+* Pandas
+* NumPy
+* Power BI
+* Excel
+* Jupyter Notebook
+
+**Databases**
+
+* Microsoft SQL Server
+* MySQL
+* PostgreSQL
+
+**Tools & Technologies**
+
+* Git
+* GitHub
+* Visual Studio
+* Visual Studio Code
+
+## Current Focus
+
+* Advanced Data Science
+* Artificial Intelligence & LLM Applications
+* Machine Learning
+* Data Engineering
+* Cloud Technologies
+
+## Professional Philosophy
+
+*"Great decisions are driven by reliable data, efficient systems, and continuous improvement."*
+
 
 
 **I'm always available to collaborate on interesting and exciting projects. You can reach me through the following channels:**
